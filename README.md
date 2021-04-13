@@ -8,6 +8,7 @@ Console version of classic rock-paper-scissors game
 	On Chrome: More Tools > Developer Tools
  
 ## How-To Play
+- Refresh the page after following setup instructions.
 - When prompted you can enter a valid move: (rock, paper or scissors).
 	Note: Move is not case sensitive.
 - Each Play has a total of 5 rounds.
